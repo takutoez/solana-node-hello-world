@@ -1,0 +1,14 @@
+{
+  "name": "solana-node-hello-world",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@solana/spl-token": "^0.1.8",
+    "@solana/wallet-adapter-base": "^0.9.3",
+    "@solana/wallet-adapter-wallets": "^0.15.4",
+    "@solana/web3.js": "^1.34.0",
+    "yaml": "^1.10.2"
+  }
+}
